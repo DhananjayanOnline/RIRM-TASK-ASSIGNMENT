@@ -1,0 +1,13 @@
+"""
+Question 3:
+One-line answers
+"""
+
+
+A)  Search backward starting at the current line and moving ‘up’ through the history as necessary.
+
+B)  we can find hidden files using find command in Linux or Unix.
+
+C)  I am very confortable to use Linux-based OS. I have experience for using Ubantu for my accadamic purposes.
+
+D)  Yes, I have used Huroku to host my few web applications.
